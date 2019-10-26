@@ -8,20 +8,36 @@ export class UserService {
 
   friends = [
     {
-      name: 'Franky Lee Jones',
-      pic: 'frank.png',
-      position: 'CEO',
+      name: 'King',
+      pic: 'king.jpg',
+     
     },
     {
-      name: 'Alice in Wonderland',
-      pic: 'alisa.jpg',
-      position: 'Secretary',
+      name: 'Pare',
+      pic: 'pare.jpg',
+     
     },
     {
-      name: 'Pat Tracy Johnson',
+      name: 'ket',
+      pic: 'ket.jpg',
+     
+    },
+    {
+      name: 'Tik',
+      pic: 'tik.jpg',
+     
+    },
+    {
+      name: 'Pat',
       pic: 'pat.jpg',
-      position: 'IT Support',
-    }
+     
+    },
+    {
+      name: 'Benz',
+      pic: 'alisa.jpg',
+     
+    },
+    
   ];
   users: any
 
